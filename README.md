@@ -4,7 +4,6 @@ You've been hired as a backend developer for a new startup called GrubDash! As a
 
 For detailed instructions on how to complete this project, consult the Instructions document in the Qualified assessment interface.
 
-
 ![](images/GrubDash.png)
 GrubDash frontend
 Although it isn't required, if you would like to see this project connected to a frontend application, visit the following repository:
